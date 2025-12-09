@@ -212,6 +212,8 @@ const CardContent = styled.div`
     font-size: 16px;
     line-height: 1.5;
     color: #2d3748;
+    word-break: break-word;
+    overflow-wrap: break-word;
   }
 `;
 
